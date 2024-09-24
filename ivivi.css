@@ -1,0 +1,11 @@
+p{
+    color: #3d9971;
+    background-color: beige;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+#fg{
+    margin: 10px;
+    box-shadow: 12px 1px 6px 2px coral;
+    text-align: center;
+}
