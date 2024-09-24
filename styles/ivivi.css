@@ -9,3 +9,12 @@ p{
     box-shadow: 12px 1px 6px 2px coral;
     text-align: center;
 }
+
+li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: tomato;
+}
+
+span{
+    color: cornflowerblue;
+}
